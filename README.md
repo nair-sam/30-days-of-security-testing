@@ -11,11 +11,12 @@ You can do this in your own time, or you can join us as a community and share yo
 
 ######Here is how you can share your progress:
 
-On our Ministry of Testing Facebook group
-On our [MoT Slack] (https://ministryoftesting.com/slack), request an invite if you are not there.
-On Instagram, Twitter, Facebook, LinkedIn – use the #30daysoftesting hashtag
-On our 30 Days of Testing category in [Software Testing Club] (http://www.softwaretestingclub.com/)
-WARNING: Hacking is illegal. Ministry of Testing does not advocate or condone illegal hacking. Some of these suggestions should be done in safe environments or with the express permission of the websites or applications under test. Try: Hack Yourself First if you need a safe environment to test with.
+* On our Ministry of Testing Facebook group
+* On our [MoT Slack] (https://ministryoftesting.com/slack), request an invite if you are not there.
+* On Instagram, Twitter, Facebook, LinkedIn – use the #30daysoftesting hashtag
+* On our 30 Days of Testing category in [Software Testing Club] (http://www.softwaretestingclub.com/)
+
+######WARNING:###### Hacking is illegal. Ministry of Testing does not advocate or condone illegal hacking. Some of these suggestions should be done in safe environments or with the express permission of the websites or applications under test. Try: Hack Yourself First if you need a safe environment to test with.
 
 ![alt tag](https://github.com/nair-sam/30-days-of-security-testing/blob/master/30_days_of_security_testing_3.png)
 
