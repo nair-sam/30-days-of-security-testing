@@ -1,15 +1,15 @@
-######30 Days of Security Testing
+###30 Days of Security Testing###
 New year, new challenge!
 
 Below is an image with the list of challenges for each day of the month.  Save it somewhere. Print it out. Stick it on your wall. Let’s do this?
 
-######What are the rules?
+######What are the rules?######
 
 We have a list of 30 challenges, plus a bonus one   Each one has a number. The goal is to tick off as many of the challenges as you can within your own specified timeframe.
 
 You can do this in your own time, or you can join us as a community and share your results or progress.  You may have an image to share, a blog post, a video, status update, whatever it is!  Come and participate!
 
-######Here is how you can share your progress:
+######Here is how you can share your progress:######
 
 * On our Ministry of Testing Facebook group
 * On our [MoT Slack] (https://ministryoftesting.com/slack), request an invite if you are not there.
